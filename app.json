@@ -7,6 +7,9 @@
     "SLACK_TOKEN": {
       "description": "The token of your ruboty's slack bot account."
     },
+    "ASTRAL_MASTER": {
+      "description": "Reply target on slack."
+    },
     "TZ": {
       "description": "Timezone.",
       "value": "Asia/Tokyo"

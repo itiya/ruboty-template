@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/itiya/ruboty-astral_zatsudan.git
-  revision: 35e18421884c0e4b0c5edc190c9cc93ff31642d5
+  revision: f3c66d633c63f1a468e32cf80719944803cb0fba
   specs:
     ruboty-astral_zatsudan (0.1.0)
       ruboty
@@ -8,7 +8,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.1.3)
+    activesupport (5.1.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
       minitest (~> 5.1)
