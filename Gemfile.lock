@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/itiya/ruboty-astral_zatsudan.git
-  revision: 08079444d64aae49a1dc09b352157a34a7967910
+  remote: https://github.com/itiya/ruboty-astral_zatsudan.git
+  revision: eadc7645802557c242b5313409f5a2727596f60c
   specs:
     ruboty-astral_zatsudan (0.1.0)
       ruboty
