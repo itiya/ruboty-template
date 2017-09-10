@@ -13,6 +13,8 @@ GEM
       i18n (~> 0.7)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+    chrono (0.4.0)
+      activesupport
     concurrent-ruby (1.0.5)
     dotenv (2.2.1)
     event_emitter (0.2.6)
@@ -36,6 +38,10 @@ GEM
       dotenv
       mem
       slop
+    ruboty-cron (1.1.0)
+      activesupport
+      chrono
+      ruboty (>= 0.2.0)
     ruboty-slack_rtm (2.7.2)
       ruboty (>= 1.1.4)
       slack-api (~> 1.2)
@@ -64,6 +70,7 @@ DEPENDENCIES
   rake
   ruboty
   ruboty-astral_zatsudan!
+  ruboty-cron
   ruboty-slack_rtm
 
 BUNDLED WITH
