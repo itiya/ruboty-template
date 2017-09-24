@@ -42,6 +42,8 @@ GEM
       activesupport
       chrono
       ruboty (>= 0.2.0)
+    ruboty-delay (0.0.1)
+      ruboty
     ruboty-slack_rtm (2.7.2)
       ruboty (>= 1.1.4)
       slack-api (~> 1.2)
@@ -71,6 +73,7 @@ DEPENDENCIES
   ruboty
   ruboty-astral_zatsudan!
   ruboty-cron
+  ruboty-delay
   ruboty-slack_rtm
 
 BUNDLED WITH
