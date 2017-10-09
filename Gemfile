@@ -7,3 +7,4 @@ gem 'ruboty-astral_zatsudan', :git=> 'https://github.com/itiya/ruboty-astral_zat
 gem 'ruboty-cron'
 gem 'ruboty-delay'
 gem 'ruboty-alias'
+gem 'ruboty-redis'
