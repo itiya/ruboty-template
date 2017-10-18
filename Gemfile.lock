@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/itiya/ruboty-astral_todoist.git
-  revision: e56042c22f1b704dcc1715a68bf97f2b283b5561
+  revision: c66d36b11789f7a2acca8946c13f30ea6dbb2c12
   specs:
     ruboty-astral_todoist (0.1.0)
       todoist-ruby
