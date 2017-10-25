@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/itiya/ruboty-astral_todoist.git
-  revision: c66d36b11789f7a2acca8946c13f30ea6dbb2c12
+  revision: 096bb86cdf05cad417054e50eeb6a107d471437b
   specs:
     ruboty-astral_todoist (0.1.0)
       todoist-ruby
@@ -40,7 +40,7 @@ GEM
     minitest (5.10.3)
     multi_json (1.12.2)
     multipart-post (2.0.0)
-    rake (12.1.0)
+    rake (12.2.1)
     redis (3.3.5)
     redis-namespace (1.5.3)
       redis (~> 3.0, >= 3.0.4)
